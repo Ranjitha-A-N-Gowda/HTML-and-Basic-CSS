@@ -1,4 +1,4 @@
-# HTML-and-basic-CSS
+# HTML-basic
 # HTML Part1:
 I have created a web page using HTML and for styling I have used CSS (Internal CSS) 
 Tags included are: 
