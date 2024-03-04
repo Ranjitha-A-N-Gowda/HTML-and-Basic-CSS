@@ -10,4 +10,4 @@ Tags included are:
 6. unordered list
 7. image tag
 8. button
-It consists of index.html, about.html, contact.html and images.
+# It consists of index.html, about.html, contact.html and images.
